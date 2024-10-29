@@ -389,9 +389,8 @@ header .logo span {
 }
 
 .portfolio-item:hover .inner {
-  border-bottom: 3px solid rgb(231, 233, 252);
-  border-left: 2px solid rgb(231, 233, 252);
-  border-right: 2px solid rgb(231, 233, 252);
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
+    1px 4px 6px rgba(0, 0, 0, 0.16);
 }
 
 /* FOOTER */
